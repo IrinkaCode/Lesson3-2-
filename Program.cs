@@ -53,6 +53,59 @@
 //Console.WriteLine(cutSentence);
 
 
+//string text = "Хороший день";
+//string substring = "замечательный ";
+//text = text.Insert(8, substring);
+//Console.WriteLine(text);
+
+
+string text = "Новогодние каникулы";
+string substring = "зимние ";
+text = text.Insert(11, substring);
+Console.WriteLine(text);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
